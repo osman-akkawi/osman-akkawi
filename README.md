@@ -1,92 +1,134 @@
-<!-- Profile README for github.com/osman-akkawi -->
-<!-- Keep this repository public and named exactly: osman-akkawi -->
-
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Osman Akkawi — Software Developer focused on offline-first, mobile, AI and full-stack engineering" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Osman%20Akkawi&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20Offline-First%20Systems%20%7C%20Mobile%20Apps%20%7C%20AI%2FML&descAlignY=60" alt="Osman Akkawi banner" />
 
+# 👋 Hi, I'm Osman Akkawi
 
-Software Developer · Offline-First Systems · Mobile Apps · AI/ML
-<sub>Based in Lebanon · Open to remote internships, junior developer roles & meaningful collaboration</sub>
+### Computer Science Graduate | Full-Stack Developer | Mobile, AI/ML & Offline-First Systems
 
+Based in **Lebanon** • Open to **remote internships**, **junior developer roles**, and **meaningful engineering collaboration**
 
+<p>
+  <a href="https://github.com/osman-akkawi?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
+  <a href="https://www.linkedin.com/in/osman-akkawi-0319aa285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:osmanjihadakkawi@outlook.com"><img src="https://img.shields.io/badge/Let's_Connect-0F766E?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Osman" /></a>
+</p>
 
-<a href="https://github.com/osman-akkawi?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/Explore_Projects-121A2C?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/osman-akkawi-0319aa285/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-1567A5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="mailto:osmanjihadakkawi@outlook.com"><img alt="Email Osman" src="https://img.shields.io/badge/Let's_Connect-1C8A88?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" /></a>
 </div>
 
-👋 Hey, I'm Osman
-I build practical software that solves real problems — especially when connectivity, reliability, or usability are challenging. My interests sit at the intersection of mobile engineering, distributed communication, full-stack development, and applied AI.
-Instead of focusing only on prototypes, I enjoy understanding how systems behave in practice: how data moves, how users interact, and what happens when things go wrong.
-- 🔭 Building: ResilientNet, an offline-first Android messenger using device-to-device connections.
-- 🧠 Exploring: distributed systems, routing strategies, networking, applied machine learning, and resilient app architecture.
-- 🛠️ Comfortable working across: mobile interfaces, APIs, authentication flows, databases, and system integration.
-- 🤝 Interested in: open-source contributions, engineering teams, internships, and remote opportunities.
-✨ Featured engineering work
-<a href="https://github.com/osman-akkawi/ResilientNet">
-  <img src="./assets/resilientnet.svg" alt="ResilientNet — offline delay-tolerant Android messaging" width="100%" />
-</a>
+---
 
-ResilientNet is a Flutter-based Android project that explores serverless, decentralized communication using Google Nearby Connections. The app is designed for nearby devices to exchange messages even when internet connectivity is unavailable.
-Engineering focus	What the project explores
-Peer-to-peer transport	Nearby device discovery and communication without an internet server
-Delay-tolerant messaging	Store-and-forward delivery with message priorities, time-to-live, and relay rules
-Privacy & security	Identity keys, encrypted payloads, and contact trust mechanisms
-User experience	Delivery-confidence indicators, mesh health visibility, and battery-aware settings
+## 🚀 About Me
 
+I build practical software that solves real problems — especially when **connectivity**, **reliability**, or **usability** are challenging.
 
+My interests sit at the intersection of:
+- 📱 **Mobile engineering**
+- 🌐 **Distributed and offline-first systems**
+- 🛠️ **Full-stack development**
+- 🧠 **Applied AI / machine learning**
+
+Instead of only building prototypes, I enjoy understanding how systems behave in the real world: **how data moves, how users interact, and what happens when things go wrong**.
+
+- 🔭 **Currently building:** [ResilientNet](https://github.com/osman-akkawi/ResilientNet)
+- 🌱 **Currently learning:** distributed systems, networking strategies, resilient app architecture, and advanced AI/ML
+- 🤝 **Interested in:** internships, junior software roles, open-source, and collaborative engineering work
+- 💬 **Ask me about:** mobile apps, APIs, authentication, offline messaging, backend systems, and AI integration
+
+---
+
+## ✨ Featured Projects
+
+### 📡 ResilientNet
+**Offline delay-tolerant mesh messenger for Android**
+
+[![Read more](https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osman-akkawi/ResilientNet)
+
+ResilientNet is an **offline-first Android communication system** designed to help nearby devices exchange messages **without depending on the internet**.
+
+**Engineering focus:**
+- Device-to-device communication using nearby connections
+- Delay-tolerant and store-and-forward messaging
+- Delivery confidence and routing logic
+- Privacy, resilience, and usability in low-connectivity environments
+
+---
+
+### ✉️ T-Mail
+**Email reimagined inside Telegram**
+
+[![Read more](https://img.shields.io/badge/View_Project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osman-akkawi/T_Mail)
+
+T-Mail explores a different communication workflow by connecting email-style use cases with a **Telegram-based interface**.
+
+---
+
+### 🧩 Other Work
+
+| Project | Focus | Highlights |
+|---|---|---|
+| **H-CARS** | Smart course recommendation | Graph logic, constraints, scoring, and recommendation design |
+| **Secure Auth System** | Authentication & security | OTP verification, role-based access, and protected APIs |
+| **AI / ML Experiments** | Applied AI | Prediction, classification, and AI API integration |
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & App Development
 <p>
-<a href="https://github.com/osman-akkawi/ResilientNet"><img alt="View ResilientNet source" src="https://img.shields.io/badge/Explore_ResilientNet-274C78?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://github.com/osman-akkawi/ResilientNet/blob/master/README.md"><img alt="Read ResilientNet technical details" src="https://img.shields.io/badge/Technical_Details-1C807D?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,kotlin,java,cpp,react,nextjs,flutter&perline=10" alt="Languages and app development tools" />
 </p>
 
-More things I've built
-<a href="https://github.com/osman-akkawi/T_Mail">
-  <img src="./assets/tmail.svg" alt="T-Mail — email reimagined inside Telegram" width="100%" />
-</a>
-
-T-Mail — a project exploring email workflows through a Telegram-based interface.
-Project	Focus	Highlights
-H-CARS	Course recommendation	Graph-based reasoning, constraints, and weighted scoring
-Secure Auth System	Backend security	One-time passwords, role-based access, and protected endpoints
-AI / ML experiments	Applied AI	Prediction, classification, and AI API integrations
-
-
-<sub>Some projects are described here as portfolio work rather than linked to a public repository.</sub>
-🧰 Engineering toolkit
-Languages & application development
+### Backend, Data & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,kotlin,java,cpp,react,nextjs,flutter&amp;perline=10" alt="Python, TypeScript, JavaScript, Dart, Kotlin, Java, C++, React, Next.js, Flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,docker,firebase,git,github&perline=10" alt="Backend data and tooling" />
 </p>
 
-Backend, data & infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,docker,firebase,git,github&amp;perline=10" alt="Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Firebase, Git, GitHub" />
-</p>
+**Areas I enjoy:** `Offline-first systems` · `Networking` · `Mobile architecture` · `REST APIs` · `Authentication` · `Distributed systems` · `Applied ML`
 
-Areas I enjoy: Offline-first · Networking · Mobile architecture · REST APIs · Authentication · Distributed systems · Applied ML
-<sub>Tools represent technologies I've worked with or explored, not a claim of equal expertise in every one.</sub>
-🎯 What I'm focused on
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=osman-akkawi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-akkawi&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=osman-akkawi&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/osman-akkawi/osman-akkawi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> If the snake does not appear immediately, it usually means the workflow has not run yet. After you add the workflow file below, GitHub will generate it automatically.
+
+---
+
+## 🎯 Current Focus
+
+```text
 01  Building more reliable offline communication systems
-02  Improving mobile UX, test coverage, and software architecture
+02  Improving mobile UX and application architecture
 03  Deepening my knowledge of distributed systems and AI/ML
-04  Collaborating on open-source and real-world engineering projects
-📈 GitHub activity
-<div align="center">
-  <a href="https://github.com/osman-akkawi">
-    <img src="https://github-readme-stats.vercel.app/api?username=osman-akkawi&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1527&amp;title_color=75d9ee&amp;text_color=d1dcf0&amp;icon_color=9e8df4&amp;rank_icon=github" alt="GitHub profile statistics" height="164" />
-  </a>
-  <a href="https://github.com/osman-akkawi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-akkawi&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1527&amp;title_color=75d9ee&amp;text_color=d1dcf0&amp;langs_count=6" alt="Most-used languages across public repositories" height="164" />
-  </a>
-</div>
+04  Collaborating on real-world software projects
+```
 
-<sub>GitHub activity images are generated by third-party services and may occasionally be temporarily unavailable. Language data reflects repository contents, not overall expertise.</sub>
+---
+
+## 📫 Connect With Me
+
 <div align="center">
 
-Let's build something useful.
-If you're working on mobile apps, resilient networks, applied AI, or full-stack products, I'd be happy to connect.
-<a href="mailto:osmanjihadakkawi@outlook.com"><strong>📧 Email me</strong></a>  ·  <a href="https://www.linkedin.com/in/osman-akkawi-0319aa285/"><strong>Connect on LinkedIn</strong></a>  ·  <a href="https://github.com/osman-akkawi?tab=repositories"><strong>Explore my code</strong></a>
-<sub>Built with curiosity, persistence, and a focus on software that works in the real world.</sub>
+If you're working on **mobile apps, networking, resilient systems, applied AI, or full-stack products**, I'd be happy to connect.
+
+<a href="mailto:osmanjihadakkawi@outlook.com"><strong>📧 Email</strong></a> · <a href="https://www.linkedin.com/in/osman-akkawi-0319aa285/"><strong>LinkedIn</strong></a> · <a href="https://github.com/osman-akkawi?tab=repositories"><strong>GitHub Repositories</strong></a>
+
 </div>
