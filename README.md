@@ -122,12 +122,10 @@ T-Mail explores a different communication workflow by connecting email-style use
 
 ## 🎯 Current Focus
 
-```text
-01  Building more reliable offline communication systems
-02  Improving mobile UX and application architecture
-03  Deepening my knowledge of distributed systems and AI/ML
-04  Collaborating on real-world software projects
-```
+- Building more reliable offline communication systems
+- Improving mobile UX and application architecture
+- Deepening my knowledge of distributed systems and AI/ML
+- Collaborating on real-world software projects
 
 ---
 
