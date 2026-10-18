@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Osman Akkawi
 
-### Co-Founder & CEO at ArzCore Technologies | Full-Stack Developer | AI/ML & Offline-First Systems
+### Founder & CEO at ArzCore Technologies | Full-Stack Developer | AI/ML & Offline-First Systems
 
 Based in **Tripoli, Lebanon** • **BSc Computer Science candidate — expected Summer 2027** • Open to remote engineering roles, internships and collaboration
 
@@ -24,7 +24,7 @@ I’m a software engineer, systems analyst, and Computer Science candidate with 
 
 I build practical systems for HR, attendance, room management, recruitment, analytics, POS, academic decision support, and AI-assisted workflows. I also enjoy mobile engineering and resilient, offline-first communication.
 
-- 🏢 **Leadership:** CEO & Co-Founder of **ArzCore Technologies**
+- 🏢 **Leadership:** CEO & Founder of **ArzCore Technologies**
 - 🎓 **Education:** BSc Computer Science at **City University of Tripoli**, expected **Summer 2027**
 - 🌍 **Open source:** Contributor to [Odysseus AI](https://github.com/odysseus-dev/odysseus), with [public pull requests](https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Aosman-akkawi)
 - 🔬 **Research interests:** WiFi sensing, edge ML, PV forecasting, and AI agent evaluation
@@ -35,7 +35,7 @@ I build practical systems for HR, attendance, room management, recruitment, anal
 
 ## 💼 Experience
 
-### CEO & Co-Founder · ArzCore Technologies
+### CEO & Founder · ArzCore Technologies
 **2026–Present · Lebanon**
 
 Lead product planning, solution architecture, prototyping, deployment, client requirements, and technical delivery for websites, business systems, automation, and AI-enabled products.
