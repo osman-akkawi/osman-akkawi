@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Osman Akkawi
 
-### Co-Founder & CEO at ArzCore Technology | Full-Stack Developer | AI/ML & Offline-First Systems
+### Co-Founder & CEO at ArzCore Technologies | Full-Stack Developer | AI/ML & Offline-First Systems
 
-Based in **Lebanon** • Building ArzCore Technology • Open to remote internships, engineering roles and collaboration
+Based in **Tripoli, Lebanon** • **BSc Computer Science candidate — expected Summer 2027** • Open to remote engineering roles, internships and collaboration
 
 <p>
   <a href="https://github.com/osman-akkawi?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
@@ -20,22 +20,35 @@ Based in **Lebanon** • Building ArzCore Technology • Open to remote internsh
 
 ## 🚀 About Me
 
-I build practical software that solves real problems — especially when **connectivity**, **reliability**, or **usability** are challenging.
+I’m a software engineer, systems analyst, and Computer Science candidate with **3+ years of hands-on experience** across full-stack development, university IT, AI/LLM integration, automation, secure web systems, databases, and networking.
 
-My interests sit at the intersection of:
-- 📱 **Mobile engineering**
-- 🌐 **Distributed and offline-first systems**
-- 🛠️ **Full-stack development**
-- 🧠 **Applied AI / machine learning**
+I build practical systems for HR, attendance, room management, recruitment, analytics, POS, academic decision support, and AI-assisted workflows. I also enjoy mobile engineering and resilient, offline-first communication.
 
-Instead of only building prototypes, I enjoy understanding how systems behave in the real world: **how data moves, how users interact, and what happens when things go wrong**.
+- 🏢 **Leadership:** CEO & Co-Founder of **ArzCore Technologies**
+- 🎓 **Education:** BSc Computer Science at **City University of Tripoli**, expected **Summer 2027**
+- 🌍 **Open source:** Contributor to [Odysseus AI](https://github.com/odysseus-dev/odysseus), with [public pull requests](https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Aosman-akkawi)
+- 🔬 **Research interests:** WiFi sensing, edge ML, PV forecasting, and AI agent evaluation
+- 🌐 **Product focus:** secure, responsive, bilingual Arabic/English applications with RTL support
+- 🤝 **Open to:** remote opportunities, open-source projects, and engineering collaboration
 
-- 🏢 **Leadership:** Co-Founder & CEO of **ArzCore Technology**
-- 🌍 **Open source:** Contributor to [Odysseus AI](https://github.com/odysseus-dev/odysseus), with [public pull requests](https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Aosman-akkawi) focused on chat behavior, setup, and reliability.
-- 🔭 **Currently building:** [ResilientNet](https://github.com/osman-akkawi/ResilientNet)
-- 🌱 **Currently learning:** distributed systems, networking strategies, resilient app architecture, and advanced AI/ML
-- 🤝 **Interested in:** internships, junior software roles, open-source, and collaborative engineering work
-- 💬 **Ask me about:** mobile apps, APIs, authentication, offline messaging, backend systems, and AI integration
+---
+
+## 💼 Experience
+
+### CEO & Co-Founder · ArzCore Technologies
+**2026–Present · Lebanon**
+
+Lead product planning, solution architecture, prototyping, deployment, client requirements, and technical delivery for websites, business systems, automation, and AI-enabled products.
+
+### Software Developer / Systems Analyst / IT Systems Support · City University of Tripoli
+**August 2023–August 2026 · Part-time, 18 hours/week**
+
+Built and supported academic and administrative applications, including digital attendance, room management, reporting, and AI-assisted higher-education workflows. Worked across APIs, databases, authentication, user interfaces, documentation, networking, and operational troubleshooting.
+
+### Team Leader / AI & Software Development Intern · Network and IT Consultants (NIC)
+**June–August 2026 · 300-hour professional internship**
+
+Coordinated task ownership, troubleshooting, documentation, and delivery while contributing to development, AI/LLM workflows, automation, networking, systems administration, and testing.
 
 ---
 
@@ -65,13 +78,28 @@ T-Mail explores a different communication workflow by connecting email-style use
 
 ---
 
-### 🧩 Other Work
+### 🛠️ Business Systems & AI Projects
 
-| Project | Focus | Highlights |
-|---|---|---|
-| **H-CARS** | Smart course recommendation | Graph logic, constraints, scoring, and recommendation design |
-| **Secure Auth System** | Authentication & security | OTP verification, role-based access, and protected APIs |
-| **AI / ML Experiments** | Applied AI | Prediction, classification, and AI API integration |
+- **Baladiyati HR Management System** — Bilingual HR platform with recruitment, attendance/leave, payroll, performance, reporting, notifications, audit trails, and secure role-based sessions. Built with React, Vite, Node.js, Express, Prisma, PostgreSQL, and Docker.
+- **CityU AI-Assisted Major Selection Platform** — Bilingual student guidance, questionnaire-based recommendations, admin analytics, and CSV/Excel/PDF exports.
+- **Cedar POS** — Bilingual Windows POS and owner web application covering barcode sales, USD/LBP, VAT, inventory, returns, suppliers, customer debt, shifts, reports, backups, and role controls.
+- **WakeSpec AI Agent Evaluation Harness** — Deterministic task evaluation using isolated Git worktrees, structured actions, validation, retries, crash recovery, regression checks, and usage accounting; **18/18 tests passed** in the validated suite.
+- **ArzWiFi** — Guest Wi-Fi controller prototype with timed QR access, connected-user tracking, and device access controls.
+- **Arz Download Manager (ADM)** — Desktop download manager with installer distribution, product website flows, release handling, and troubleshooting.
+- **Lumina AI & ArzCore Cloud Prototypes** — Structured and multimodal LLM workflows, plus developer-platform concepts for projects, APIs, databases, storage, and documentation.
+- **Lebanese Ministry of Finance e-Services Automation** — Workflow architecture for form normalization, browser navigation, session recovery, draft/send modes, validation, and receipt processing.
+
+---
+
+### 🔬 Research
+
+**C3-DeltaMind — Derivative-Augmented WiFi CSI Human Activity Recognition**
+
+Designed a **48K-parameter neural network** for WiFi sensing and human activity recognition. Evaluation reported **99.2424% accuracy** and **99.2465% macro-F1** on a frozen test set (**262/264 correct**). Manuscript submitted in 2026.
+
+**IoT & AI-Based Home Energy Management — PV Forecasting**
+
+Developing **15-minute, multi-horizon PV generation forecasts from t+15 to t+360 minutes**, using simulated PV data and weather inputs. Work includes pvlib, CNN/LSTM/GRU models, XGBoost, and deployment planning with live weather APIs such as Open-Meteo.
 
 ---
 
@@ -85,15 +113,36 @@ T-Mail explores a different communication workflow by connecting email-style use
 
 ### Languages & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,kotlin,java,cpp,react,nextjs,flutter&perline=10" alt="Languages and app development tools" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cs,dotnet,react,nextjs,html,css,tailwind&perline=5" alt="Languages and app development tools" />
 </p>
 
 ### Backend, Data & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,docker,firebase,git,github&perline=10" alt="Backend data and tooling" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,sqlite,redis,prisma,docker,linux,nginx&perline=5" alt="Backend data and tooling" />
 </p>
 
+**Also work with:** SQL Server · Firebase/Firestore · REST APIs · WebSockets · Gemini/Claude APIs · Electron · Docker Compose · Git/GitHub
+
+**Security & quality:** RBAC · sessions/JWT · HTTP-only cookies · PBKDF2 · rate limiting · audit logging · input validation · Postman · UAT · regression testing
+
 **Areas I enjoy:** `Offline-first systems` · `Networking` · `Mobile architecture` · `REST APIs` · `Authentication` · `Distributed systems` · `Applied ML`
+
+---
+
+## 🎓 Education & Training
+
+- **BSc in Computer Science** — City University of Tripoli · **Expected Summer 2027**
+- **Technical Baccalaureate (BT3) in Information Technology** — SUC College · Completed with **High Honors, 16.55/20**
+
+**Certifications & training**
+
+- Cisco CCNA: Introduction to Networks
+- Cisco CCNA: Switching, Routing, and Wireless Essentials
+- Claude 101 — Anthropic
+
+**Languages:** Arabic — native/bilingual · English — B2, professional working proficiency
+
+**Research identity:** [ORCID 0009-0008-6151-1548](https://orcid.org/0009-0008-6151-1548)
 
 ---
 
@@ -113,10 +162,10 @@ T-Mail explores a different communication workflow by connecting email-style use
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/osman-akkawi/osman-akkawi/main/assets/contribution-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/osman-akkawi/osman-akkawi/main/assets/contribution-snake.svg" width="100%" alt="Animated snake eating contribution squares" />
 </div>
 
-<sub>Animated contribution snapshot · October 18, 2026.</sub>
+<sub>A looping animation of my public contribution calendar. The snapshot date is shown in the image.</sub>
 
 ---
 
