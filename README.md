@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Osman Akkawi
 
-### Computer Science Graduate | Full-Stack Developer | Mobile, AI/ML & Offline-First Systems
+### Co-Founder & CEO at ArzCore Technology | Full-Stack Developer | AI/ML & Offline-First Systems
 
-Based in **Lebanon** • Open to **remote internships**, **junior developer roles**, and **meaningful engineering collaboration**
+Based in **Lebanon** • Building ArzCore Technology • Open to remote internships, engineering roles and collaboration
 
 <p>
   <a href="https://github.com/osman-akkawi?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
@@ -30,6 +30,8 @@ My interests sit at the intersection of:
 
 Instead of only building prototypes, I enjoy understanding how systems behave in the real world: **how data moves, how users interact, and what happens when things go wrong**.
 
+- 🏢 **Leadership:** Co-Founder & CEO of **ArzCore Technology**
+- 🌍 **Open source:** Contributor to [Odysseus AI](https://github.com/odysseus-dev/odysseus), with [public pull requests](https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Aosman-akkawi) focused on chat behavior, setup, and reliability.
 - 🔭 **Currently building:** [ResilientNet](https://github.com/osman-akkawi/ResilientNet)
 - 🌱 **Currently learning:** distributed systems, networking strategies, resilient app architecture, and advanced AI/ML
 - 🤝 **Interested in:** internships, junior software roles, open-source, and collaborative engineering work
@@ -73,6 +75,12 @@ T-Mail explores a different communication workflow by connecting email-style use
 
 ---
 
+### 🌐 Open-Source Contributions
+
+**[Odysseus AI](https://github.com/odysseus-dev/odysseus)** — I submitted improvements to this open-source AI workspace, associated with PewDiePie. My [public GitHub pull requests](https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Aosman-akkawi) involve chat, startup, model discovery, and cancellation handling.
+
+---
+
 ## 🧰 Tech Stack
 
 ### Languages & App Development
@@ -105,10 +113,10 @@ T-Mail explores a different communication workflow by connecting email-style use
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/osman-akkawi/osman-akkawi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/osman-akkawi/osman-akkawi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> If the snake does not appear immediately, it usually means the workflow has not run yet. After you add the workflow file below, GitHub will generate it automatically.
+<sub>The snake animation will appear after the GitHub Actions workflow runs successfully and publishes the `output` branch.</sub>
 
 ---
 
