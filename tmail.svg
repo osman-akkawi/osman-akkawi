@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="200" viewBox="0 0 1120 200" role="img" aria-labelledby="t d">
+<title id="t">T-Mail project cover</title><desc id="d">Blue and violet project card with an envelope icon.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141c3c"/><stop offset="1" stop-color="#112b3f"/></linearGradient></defs>
+<rect width="1120" height="200" rx="16" fill="url(#g)"/>
+<rect x="37" y="26" width="111" height="26" rx="13" fill="#343365"/><text x="92" y="44" text-anchor="middle" font-size="12" font-weight="700" fill="#d4c8ff" font-family="Arial">PROJECT</text>
+<text x="40" y="112" font-family="Arial" font-size="44" font-weight="800" fill="#f5f8ff">T-Mail</text><text x="41" y="148" font-size="20" font-family="Arial" fill="#b5c7e5">Email reimagined inside Telegram</text>
+<g transform="translate(894 43)" fill="none" stroke="#80cfff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="145" height="112" rx="15"/><path d="M3 17L72.5 70L142 17"/></g>
+<rect x="1" y="1" width="1118" height="198" rx="15" fill="none" stroke="#5873a0" stroke-opacity=".5" stroke-width="2"/>
+</svg>

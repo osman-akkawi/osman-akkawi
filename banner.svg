@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Osman Akkawi — Software Developer</title>
+<desc id="desc">Midnight blue developer profile cover with cyan and violet mesh network artwork.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08101f"/><stop offset=".56" stop-color="#101932"/><stop offset="1" stop-color="#0c1024"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6ee7f9"/><stop offset=".5" stop-color="#52a9ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#3567d8" stop-opacity=".30"/><stop offset="1" stop-color="#3567d8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#5b7fb0" stroke-opacity=".09" stroke-width="1"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="1.4"/></filter>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<circle cx="927" cy="174" r="266" fill="url(#glow)"/>
+<path d="M36 30H1164 M36 330H1164" stroke="#6a83ad" stroke-opacity=".28"/>
+<path d="M62 59h28 M62 59v28 M1138 59h-28 M1138 59v28 M62 300h28 M62 300v-28 M1138 300h-28 M1138 300v-28" fill="none" stroke="#58cbe5" stroke-opacity=".5" stroke-width="1.5"/>
+<rect x="65" y="62" width="208" height="29" rx="14.5" fill="#15263a" stroke="#33536e"/>
+<circle cx="82" cy="76.5" r="4.5" fill="#55e8c2"/><text x="97" y="81" font-size="12" font-weight="700" fill="#b4d3e8" font-family="Arial, sans-serif" letter-spacing="1.1">ENGINEERING / DESIGN</text>
+<text x="64" y="162" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="-2" fill="#f4f7ff">Osman Akkawi</text>
+<rect x="65" y="179" width="90" height="4" rx="2" fill="url(#a)"/>
+<text x="65" y="224" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#9dc4e7">Software Developer</text>
+<text x="65" y="260" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#a5b2cc">Building dependable software for a connected world.</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#b3c5df">
+ <text x="65" y="306">OFFLINE-FIRST</text><circle cx="190" cy="302" r="2" fill="#6ee7f9"/>
+ <text x="204" y="306">MOBILE</text><circle cx="275" cy="302" r="2" fill="#6ee7f9"/>
+ <text x="291" y="306">AI / ML</text><circle cx="370" cy="302" r="2" fill="#6ee7f9"/>
+ <text x="385" y="306">FULL-STACK</text>
+</g>
+<!-- network visual -->
+<g stroke="#69ccf1" stroke-width="1.5" fill="none" opacity=".54">
+ <path d="M724 130L834 77L950 120L1071 73M724 130L809 211L950 120L1080 219L1071 73 M809 211L933 287L1080 219 M834 77L809 211 M950 120L933 287 M724 130L704 251L809 211"/>
+</g>
+<g stroke="#a78bfa" stroke-width="1" fill="none" opacity=".36"><path d="M834 77L933 287 M704 251L950 120 M834 77L1080 219" stroke-dasharray="5 7"/></g>
+<g fill="#101d37" stroke="#71dbf1" stroke-width="2.4"><circle cx="724" cy="130" r="9"/><circle cx="834" cy="77" r="8"/><circle cx="950" cy="120" r="15"/><circle cx="1071" cy="73" r="8"/><circle cx="809" cy="211" r="12"/><circle cx="1080" cy="219" r="10"/><circle cx="933" cy="287" r="8"/><circle cx="704" cy="251" r="7"/></g>
+<circle cx="950" cy="120" r="5" fill="#7becff"/>
+<circle cx="809" cy="211" r="4" fill="#a78bfa"/>
+<g font-family="monospace" font-size="11" fill="#8db3d7" letter-spacing=".5"><text x="952" y="95">MESH NODE</text><text x="1018" y="258">RELAY</text><text x="734" y="263">P2P</text></g>
+<rect x=".75" y=".75" width="1198.5" height="358.5" rx="19" fill="none" stroke="#7d96cc" stroke-opacity=".23" stroke-width="1.5"/>
+</svg>

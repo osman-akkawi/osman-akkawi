@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="265" viewBox="0 0 1120 265" role="img" aria-labelledby="t d">
+<title id="t">ResilientNet project cover</title><desc id="d">Dark blue project card showing a nearby network of devices and offline communication.</desc>
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#0c1d35"/><stop offset="1" stop-color="#12152d"/></linearGradient><linearGradient id="accent"><stop stop-color="#48dada"/><stop offset="1" stop-color="#758cff"/></linearGradient></defs>
+<rect width="1120" height="265" rx="16" fill="url(#b)"/>
+<path d="M0 213H1120" stroke="#465875" stroke-opacity=".35"/>
+<rect x="37" y="31" width="126" height="27" rx="13.5" fill="#174751"/><text x="100" y="49" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700" fill="#8cf9ea">FLAGSHIP PROJECT</text>
+<text x="42" y="121" font-family="Arial" font-size="46" font-weight="800" fill="#f5f8ff" letter-spacing="-.9">ResilientNet</text>
+<text x="43" y="158" font-family="Arial" font-size="20" fill="#a3c7e2">Offline, delay-tolerant Android messaging</text>
+<text x="43" y="195" font-family="Arial" font-size="14" fill="#94aaca">Device-to-device  •  Store-and-forward  •  Encrypted</text>
+<g stroke="#4dc8ed" stroke-width="2.3" stroke-opacity=".75" fill="none"><path d="M740 90L861 59L982 108L858 182L740 90 M740 90L739 190L858 182L982 108L1007 203L858 182"/></g>
+<g fill="#13283e" stroke="#75e3ff" stroke-width="4"><circle cx="740" cy="90" r="14"/><circle cx="861" cy="59" r="13"/><circle cx="982" cy="108" r="17"/><circle cx="858" cy="182" r="19"/><circle cx="739" cy="190" r="12"/><circle cx="1007" cy="203" r="12"/></g>
+<circle cx="858" cy="182" r="7" fill="#68ede1"/><circle cx="982" cy="108" r="6" fill="#798bff"/>
+<g fill="#89b8d3" font-family="monospace" font-size="13"><text x="801" y="233">NO INTERNET REQUIRED</text></g>
+<rect x="1" y="1" width="1118" height="263" rx="15" fill="none" stroke="#436b9d" stroke-opacity=".5" stroke-width="2"/>
+</svg>
