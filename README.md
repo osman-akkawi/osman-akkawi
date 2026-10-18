@@ -113,10 +113,10 @@ T-Mail explores a different communication workflow by connecting email-style use
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/osman-akkawi/osman-akkawi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/osman-akkawi/osman-akkawi/main/assets/contribution-snake.svg" alt="Snake animation" />
 </div>
 
-<sub>The snake animation will appear after the GitHub Actions workflow runs successfully and publishes the `output` branch.</sub>
+<sub>Animated contribution snapshot · October 18, 2026.</sub>
 
 ---
 
